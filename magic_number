@@ -1,0 +1,13 @@
+def magic_number_example(self):
+    for i in range(32):
+            print(i)
+            if i == 16:
+                print("halfway there")
+
+
+def magic_number_example(self):
+    total_count = 32
+    for i in range(total_count):
+        print(i)
+        if i == int(total_count / 2):
+            print("halfway there")
