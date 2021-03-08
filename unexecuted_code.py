@@ -1,5 +1,5 @@
-def unexecuted_example(self):
-  if fruit == "Apples":
+def unexecuted_example(self, fruit):
+    if fruit == "Apples":
         my_snack = "Apples"
         return my_snack
 
